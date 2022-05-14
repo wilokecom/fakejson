@@ -1,0 +1,11 @@
+{
+	"product": {
+		"price": 12,
+		"title": "Product test",
+		"discount": 10
+	},
+	"blog": {
+		"title": "My Blog",
+		"content": "This is my content"
+	}
+}
