@@ -1,11 +1,15 @@
 {
-	"product": {
-		"price": 12,
-		"title": "Product test",
-		"discount": 10
+	"product.json": {
+		"product": {
+			"price": 12,
+			"title": "Product test",
+			"discount": 10
+		}
 	},
-	"blog": {
-		"title": "My Blog",
-		"content": "This is my content"
+	"blog.json": {
+		"blog": {
+			"title": "My Blog",
+			"content": "This is my content"
+		}
 	}
 }
